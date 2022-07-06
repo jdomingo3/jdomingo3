@@ -5,7 +5,7 @@
 - <b>Introduction to Linux (Recoll)</b>
   - [Designing Document Management System](https://github.com/jdomingo3/Document-Management-System)
 - <b>Database Fundamentals (Retrieve Data From a Database, Database Normalization, Develop an ERD - Entity Relationship Diagram)</b>
-  - [Database Evaluation](https://github.com/jdomingo3/) <b><i>(HOT!)</b></i>
+  - [Database Evaluation](https://github.com/jdomingo3/database-analysis/) <b><i>(HOT!)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jdomingo3/)
   - [JWipe (Disk Wiping Utility)](https://github.com/jdomingo3/)
