@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/jdomingo3/">Programmer</a>, <a href="https://www.linkedin.com/in/joshua-nino-domingo-252291244/">Google IT Support Professional</a>, <a href="#">YouTuber</a></h1>
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/jdomingo3/">Programmer</a>, <a href="www.linkedin.com/in/joshua-nino-domingo">Google IT Support Professional</a>, <a href="#">YouTuber</a></h1>
 
 <h2>👨‍💻 Computer Science Projects:</h2>
 
@@ -60,7 +60,7 @@
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/in/joshua-nino-domingo-252291244/
+[linkedin]: www.linkedin.com/in/joshua-nino-domingo
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
