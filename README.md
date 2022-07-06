@@ -60,7 +60,7 @@
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: www.linkedin.com/in/joshua-nino-domingo
+[linkedin]: https://www.linkedin.com/in/joshua-nino-domingo
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
