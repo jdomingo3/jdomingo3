@@ -3,7 +3,7 @@
 <h2>👨‍💻 Computer Science Projects:</h2>
 
 - <b>Introduction to Linux (Recoll)</b>
-  - [Designing Document Management System](https://github.com/jdomingo3/)
+  - [Designing Document Management System](https://github.com/jdomingo3/Document-Management-System)
 - <b>Database Fundamentals (Retrieve Data From a Database, Database Normalization, Develop an ERD - Entity Relationship Diagram)</b>
   - [Database Evaluation](https://github.com/jdomingo3/) <b><i>(HOT!)</b></i>
 - <b>PowerShell</b>
