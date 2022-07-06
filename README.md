@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/jdomingo3/">Programmer</a>, <a href="www.linkedin.com/in/joshua-nino-domingo">Google IT Support Professional</a>, <a href="#">YouTuber</a></h1>
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/jdomingo3/">Programmer</a>, <a href="https://www.linkedin.com/in/joshua-nino-domingo">Google IT Support Professional</a>, <a href="#">YouTuber</a></h1>
 
 <h2>👨‍💻 Computer Science Projects:</h2>
 
