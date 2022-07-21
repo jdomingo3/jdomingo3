@@ -22,8 +22,8 @@
 
 - [Fundamentals of Information Technology](#)
 - [Introduction to Networking](#)
-- [How to Create a KeyLogger (C#)](#)
-- [Ransomware Demonstration (C#)](#)
+- [How to Create a Program (C#)](#)
+- [Demonstration (C#)](#)
 - [Is WGU Legit?](#)
 
 <h2> ⚡ Current certifications:</h2>
