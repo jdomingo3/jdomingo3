@@ -22,6 +22,7 @@
 
 - [Fundamentals of Information Technology](#)
 - [Introduction to Networking](#)
+- [Introduction to Programing](#)
 - [How to Create a Program (C#)](#)
 - [Demonstration (C#)](#)
 - [Is WGU Legit?](#)
